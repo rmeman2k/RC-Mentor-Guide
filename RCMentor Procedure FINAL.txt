@@ -1,0 +1,82 @@
+Mentoring Procedure
+
+Objective:
+ To provide all new duty officers with consistent, hands on, learning experience while reviewing the mechanics of navigating RC respond in an interactive, stress-free environment and provide opportunities for questions and discussion.
+
+Duty Officer Role:
+* Serves as the first point of contact in SEPA when an event occurs for the clients, emergency personnel and DAT responders.
+* Coordinates, assigns & deploys the DAT responders.
+*  Remotely supports DAT responders while they are enroute and at the scene.
+o Coordinates as the single point of contact with RCH arrangements, etc. for clients and manages outreach for additional support for the on-scene team.
+* Verify and document event information in RC Respond.
+
+ Procedure:
+1.  Reach out to the duty officer you will be mentoring and schedule a Teams call prior to the start of their first shift. Allow one hour for the review. (if you need assistance with setting up or using teams or teams screen share, please contact the mentor leader) This review should not occur during an actual event.  
+2. Log onto RC respond and get situational awareness of ongoing and suspended cases that will be reviewed with the DO trainee.
+3. Initiate the teams call and share screen with the new duty officer.
+4. Begin the review of the current Duty officer doctrine and dispatch procedures (located in regional documents) before starting the shift:
+* Receive report from outgoing DO – sometimes a call, sometimes a text.
+* Review system and regional alerts.
+* Review all suspended calls and take appropriate action
+* If there is an event, you will get report from outgoing DO and proceed.
+      Show how to change DO name for the event in progress.
+      Explain joining the existing text string.
+          	 
+5. Review DO notes section.
+* Document “as you go.”
+* Clear concise
+* No personal information like DOB, medication specifics, etc.
+* Someone not involved in the event should be able to read and understand what happened in chronological order.
+* Include information that could be needed for follow-up: additional residences impacted; alternate client contacts or locations, expected further action and by whom, etc.
+
+6. If there is an event, (walk the DO trainee through the applicable parts of the DO dispatch procedures (see Regional Resources)
+* You will receive a call, text and or email.
+* Acknowledge
+* Time is of the essence because there is a client or clients who may be out in the cold/heat/rain in need of assistance (adults and children)
+* Look at call details and you will see some information (review dispatch notes, map, etc.)
+* 
+* Verify that it is not a duplicate call (show this process)
+* Document in Call Details that you verified the event, Fire/Police/911 operator/dispatcher, ID / dispatcher number. Add your name and time stamp as the verifier.
+* Call on site firefighter/chief/lt. to gather information to support decision to deploy DAT responders (in alignment with DO doctrine and decision-making job tool) 
+               confirm location,
+               client name and contact number,
+               # residences and individuals impacted(adults/children/pets)
+	Description of damage
+	Confirm safe for DAT responders to deploy
+* If you do not have on site Fire Dept contact (call comes from an individual) and you need to verify, please see regional documents for county 911 call dispatch numbers. Identify as DO, provide address, make sure to get operator number. Note this information in Call Details and Duty Officer notes.
+* Review how to complete event confirmation and call information tabs in call details.
+* Review how to activate DAT response – time from acknowledgement to DAT activation should be around 10 minutes for a new/active event.
+o We dispatch / mobilize Dat responders located within the county of the event first, All on Call then Generally available have priority to respond before members of surrounding counties.
+o If no one is available within the event county, Add Regional resources to identify those that live in the surrounding counties. 
+* In the Responder Assignment Tab, review sorting by proximity and how to make individual requests; review adding a DAT responder.
+* Emphasize must have 2 responders (1 supervisor)
+* If there is no response, review how to send mass text communication from RC respond.
+Include DO name and contact number.
+* If there is still no response send second communication
+* Review event locations and counties that may be close, i.e., a West Philadelphia event could be close to Montgomery County or Delaware County responders.
+* If there is no response within reasonable time, call back-up/staff reserve.
+* Once there are two DAT members assigned, start text chain – you will have to save #’s of DAT members in your contacts; show how to find contact #’s.
+Include in text chain event address and zip code, on site emergency responder contact, client name and contact.
+                 Determine ETA
+* Call clients.  Confirm names and contact info, quantity of adults, children, pets, medical issues, location and if they have identification and proof of residency.
+* Notify client and emergency responder of ETA. - Note: DAT SV has primary responsibility for interfacing with clients and Emergency Management Agency personnel. (Mentor can explain nuances of timing wrt customer service, DAT SV status and preferences, etc).
+* Help with rally point – use google maps to see if there is a parking lot, shopping center, etc. near the scene.
+* Call Red Cross House and check on available rooms – 215 405-8800. 
+* DAT will indicate on scene.
+* DAT will notify you of what they did – Client info, CAC/EFT and RC Care case number – enter into DO notes.
+* DAT will indicate off scene.
+* You can update status in responder assignment and event status update tabs.
+* There is always a delay before you can close.  Review and document response information to support closure.
+7.  For a “large event” = 8 or more RC care cases may be opened:
+* Escalate up the chain of command.
+* Complete draft IIR
+8.  For fatality
+* Escalate up the chain of command.
+* Activate ICCT if requested by DAT SV
+9. Complete draft IIR Once the initial review is complete you can proceed to a live event. Again, using teams, the DO trainee can share screens so that the mentor can observe and coach in real time.
+10. Additional topics to discuss as time permits during mentoring sessions:
+- For duplicate events, review original (and other duplicates) to determine if action needed; take any appropriate action – use new or original call as appropriate; cross-reference in DO notes
+- Event may be suspended if known future action is needed.  Requires RDO approval, contact CDPX for approval
+- If SFF or MFF ARC must respond, but no RC Care case opened (i.e., client declines ARC services), notify Regional DAT Lead Debbie Tevlin of potential EWOC (Event without Case); close event with appropriate closure reason.  (Note: this process is draft – update as needed when finalized.)
+Revised 7/21/25
+
